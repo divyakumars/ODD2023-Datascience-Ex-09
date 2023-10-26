@@ -18,5 +18,10 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE
+```
+DEVELOPED BY:DIVYA K
+REGISTER NUMBER:212222230035
+```
+1.Which day of the week has the highest total bill amount?
 
 # OUPUT
